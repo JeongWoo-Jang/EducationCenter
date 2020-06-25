@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <th>프로젝트 개요</th>
-        <th>명소 프로그램</th>
+        <th>센터 관리 시스템</th>
         <th>개발환경&nbsp;</th>
         <th>Windows10</th>
     </tr>
